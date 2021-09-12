@@ -1,4 +1,4 @@
-## _ABOUT ME_
+## _About Me_
 - Hi, I’m Storm
 - I’m currently learning Python
 
